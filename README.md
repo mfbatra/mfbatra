@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Faizan Batra. I am currently working as a Research Assistant at Fraunhofer IEM and have previously worked as a Cloud Dev @IBM and Software Engineer at Folio3
+- 👋 Hi, I’m Faizan Batra. I am currently working as a Lead Software Engineer- Gen AI in the AI & Data Practice at ATOS. I have previously worked as Research Assistant at Fraunhofer IEM and  Cloud Dev @IBM.
 - 👀 I’m interested in Intelligence and Data
-- 🌱 I’m currently learning more about Design Principles 
+- 🌱 I’m currently researching in the space of Gen AI security and other issues.
 - 💞️ I’m looking to collaborate on open source projects and help startups get up and running
 - 📫 How to reach me: fbatra@icloud.com - I am just an email away
 
