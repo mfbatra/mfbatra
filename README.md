@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=mfbatra&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Quick get to know
 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/fbatra/">Faizan Batra</a>
 - 👋 I'm Faizan Batra, Lead Software Engineer – Gen AI in the AI & Data Practice at **Atos**. Previously Research Assistant at **Fraunhofer IEM** and Cloud Developer at **IBM**.
@@ -15,4 +13,7 @@ LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/fbatra/">Faizan B
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mfbatra&show_icons=true&theme=radical&count_private=true&line_height=46" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfbatra&count_private=true&theme=radical" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=mfbatra&theme=radical&hide_border=true" />
 </p>
